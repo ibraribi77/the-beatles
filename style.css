@@ -1,5 +1,80 @@
 body{
-    margin:0px;
-    padding:0px;
-    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    background-color: yellow;
 }
+
+
+}
+#image-1{
+    text-align: center;
+    height: 170px;
+    width: 250px;
+    margin:20px;
+}
+
+#image-2{
+    width: 900px;
+    height: 350px;
+    text-align: center;
+}
+
+#image-3{
+    height:700px;
+    width: 1000px;
+    padding:20px;
+}
+
+#road{
+    height: 500px;
+    width: 1150px;
+    margin:20px;
+}
+#events{
+    height: 400px;
+    width: 1150px;
+    margin: 20px;
+    padding:20px;
+    
+}
+
+#bullet-points-box{
+    border: 2px solid black;
+    margin-top: 40px;
+    padding:15px;
+    border-radius: 7px;
+   width: 100px;
+    text-align: center;
+   font-size:30px;
+    text-decoration:none;
+    
+  }
+li{
+    list-style-type:none;
+}
+
+.text-1{
+    border:2px solid black;
+    border-radius: 10px;
+    padding:15px;
+}
+
+#events-text{
+    font-size:25px;
+    background-color:yellow;
+    }
+#events{
+    text-align: center;
+    height: 500px;
+    width: 1200px;
+    margin-right: 20px;
+}
+#audio-span{
+ font-size:40px;   
+}
+
+iframe{
+    margin:20px;
+}
+
+
